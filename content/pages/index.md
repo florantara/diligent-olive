@@ -1,24 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    title: Achieve your Goals!
-    subtitle: Celebrating daily wins with YourGoal.
-    actions:
-      - label: Try for free
-        url: /pricing
-        style: primary
-    image: images/hero.svg
-    image_alt: Hero section placeholder image
-    media_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: small
-    background_color: none
-    background_image: images/background.svg
-    background_image_position: center top
-    background_image_size: auto
-    background_image_opacity: 60
   - type: features_section
     title: Why Choose YourGoal?
     features:
@@ -71,6 +53,24 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+  - type: hero_section
+    title: Achieve your Goals!
+    subtitle: Celebrating daily wins with YourGoal.
+    actions:
+      - label: Try for free
+        url: /pricing
+        style: primary
+    image: images/hero.svg
+    image_alt: Hero section placeholder image
+    media_position: bottom
+    align: center
+    padding_top: large
+    padding_bottom: small
+    background_color: none
+    background_image: images/background.svg
+    background_image_position: center top
+    background_image_size: auto
+    background_image_opacity: 60
   - type: grid_section
     title: Featured On
     align: center
